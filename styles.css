@@ -7,13 +7,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap');
 
-@font-face {
-  font-family: "IBM Plex Mono";
-  src: url("assets/ibm-plex-mono-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-display: swap;
-}
-
 :root {
   color-scheme: light;
   --heading: #062e47;
