@@ -58,8 +58,8 @@ h1 { color: var(--heading); font-size: 48px; line-height: 1.2; }
 .button:hover { background: var(--heading); }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
 @media (max-width: 600px) {
-  .landing { min-height: max(874px, 100svh); padding: 200px 20px 60px; }
-  h1 { font-size: 38px; line-height: 46px; }
+  /* .landing { min-height: max(874px, 100svh); padding: 200px 20px 60px; }
+  h1 { font-size: 38px; line-height: 46px; } */
   .tagline { font-size: 14px; line-height: 18px; }
   .details { margin: 200px 0 0; }
 }
